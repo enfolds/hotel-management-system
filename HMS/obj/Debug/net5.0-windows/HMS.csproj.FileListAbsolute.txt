@@ -1,0 +1,147 @@
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\HMS.exe
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\HMS.deps.json
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\HMS.runtimeconfig.json
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\HMS.runtimeconfig.dev.json
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\HMS.dll
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\ref\HMS.dll
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\HMS.pdb
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_template.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_template_.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.FrmLogin.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.FrmMain.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.Properties.Resources.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.UCRoomInfo.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.csproj.GenerateResource.cache
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.AssemblyInfoInputs.cache
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.AssemblyInfo.cs
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.csproj.CoreCompileInputs.cache
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.csproj.CopyComplete
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.dll
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\ref\HMS.dll
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.pdb
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.genruntimeconfig.cache
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.UCButton.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_about.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_customerData.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_checkOut.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_checkIn.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_reservation.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_adminData.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_newAddAdmin.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.UCReceipt.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_newAddRoom.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_roomData.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_roomType.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_merchandiseType.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_productData.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.csproj.AssemblyReference.cache
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_dashboard.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_nweGoodsOrder.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_ordersRecord.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_goodsData.resources
+D:\data\learn\APTECH\Project\Hotel Management System\HMS\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_newAddGoods.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\HMS.exe
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\HMS.deps.json
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\HMS.runtimeconfig.json
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\HMS.runtimeconfig.dev.json
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\HMS.dll
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\ref\HMS.dll
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\HMS.pdb
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.csproj.AssemblyReference.cache
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_about.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_adminData.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_checkIn.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_checkOut.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_customerData.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_dashboard.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_goodsData.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_merchandiseType.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_newAddAdmin.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_newAddGoods.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_newAddRoom.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_nweGoodsOrder.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_ordersRecord.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_productData.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_reservation.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_roomData.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_roomType.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_template.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_template_.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.FrmLogin.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.FrmMain.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.Properties.Resources.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.UCButton.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.UCReceipt.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.UCRoomInfo.resources
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.csproj.GenerateResource.cache
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.AssemblyInfoInputs.cache
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.AssemblyInfo.cs
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.csproj.CoreCompileInputs.cache
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.csproj.CopyComplete
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.dll
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\ref\HMS.dll
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.pdb
+D:\developer\Project\APTECH\Project\Hotel Management System\HMS\obj\Debug\net5.0-windows\HMS.genruntimeconfig.cache
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\HMS.exe
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\HMS.deps.json
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\HMS.runtimeconfig.json
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\HMS.runtimeconfig.dev.json
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\HMS.dll
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\ref\HMS.dll
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\HMS.pdb
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.csproj.AssemblyReference.cache
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_about.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_adminData.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_checkIn.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_checkOut.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_customerData.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_dashboard.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_goodsData.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_merchandiseType.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_newAddAdmin.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_newAddGoods.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_newAddRoom.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_nweGoodsOrder.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_ordersRecord.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_productData.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_reservation.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_roomData.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_roomType.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_template.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.childForm.childForm_template_.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.FrmLogin.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.FrmMain.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.Properties.Resources.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.UCButton.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.UCReceipt.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.UCRoomInfo.resources
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.csproj.GenerateResource.cache
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.AssemblyInfoInputs.cache
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.AssemblyInfo.cs
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.csproj.CoreCompileInputs.cache
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.csproj.CopyComplete
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.dll
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\ref\HMS.dll
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.pdb
+D:\developer\Project\APTECH\Project\HotelManagementSystem\HMS\obj\Debug\net5.0-windows\HMS.genruntimeconfig.cache

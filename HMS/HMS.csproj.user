@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="childForm\childForm_adminData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_merchandiseType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_newAddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_newAddGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_newAddRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_productData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_roomData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_roomType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_template.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_template_.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl\UCReceipt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl\UCButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl\UCRoomInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

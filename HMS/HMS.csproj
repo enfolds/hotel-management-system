@@ -1,0 +1,56 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="childForm\childForm_goodsData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_ordersRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_nweGoodsOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_checkIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_customerData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="childForm\childForm_checkOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Database\" />
+  </ItemGroup>
+
+</Project>
